@@ -7,4 +7,5 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
+
   ![Snake animation](https://github.com/gui1416/gui1416/blob/output/github-contribution-grid-snake-dark.svg)
