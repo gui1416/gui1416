@@ -1,14 +1,7 @@
-## Hi there 👋 my name is Guilherme - Welcome to my GitHub!
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gui1416&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&include_all_commits=true&cache_seconds=2300" alt="Github Stats">
 
-![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=gui1416&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui1416&layout=compact&theme=dracula)
+### Olá, meu nome é Guilherme!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Guilherme&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-#### 📫 Reach me on:
-
-<div> 
-
-  <a href = "mailto:guilhermerm2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-rabelo-3aa160294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
+<p>Seja bem-vindo ao meu GitHub<br/> Eu sou desenvolvedor Fullstack</p>
