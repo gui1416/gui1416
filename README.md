@@ -2,13 +2,17 @@
 
 ### 👋 Olá! Eu sou o Guilherme Machado
 
+<p align="justify">
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, aprendizado contínuo e construção de soluções digitais inovadoras e funcionais que impactam positivamente o dia a dia das pessoas. Com experiência em diversas tecnologias, busco sempre aprender e aplicar as melhores práticas para entregar projetos de alta qualidade.
+</p>
 
 ---
 
 ### 🚀 Sobre Mim
 
+<p align="justify">
 Minha paixão é criar soluções digitais inovadoras e funcionais. Tenho experiência em desenvolvimento web, com um foco especial em JavaScript/TypeScript, React e Node.js. Busco sempre aplicar as melhores práticas para entregar projetos de alta qualidade, desde interfaces responsivas no frontend até APIs robustas e escaláveis no backend.
+</p>
 
 - 💻 **Especialidades:** Desenvolvimento Frontend, Desenvolvimento Backend, Mobile, Databases, Web, Hardware.
 - 📚 **Aprendizado Contínuo:** Sempre buscando evoluir com projetos práticos e me aprofundando em novas tecnologias.
