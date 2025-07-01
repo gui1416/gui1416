@@ -3,7 +3,7 @@
 ### 👋 Olá! Eu sou o Guilherme Machado
 
 <p align="justify">
-Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, aprendizado contínuo e construção de soluções digitais inovadoras e funcionais que impactam positivamente o dia a dia das pessoas. Com experiência em diversas tecnologias, busco sempre aprender e aplicar as melhores práticas para entregar projetos de alta qualidade.
+Sou um <strong>Desenvolvedor Full-Stack</strong> apaixonado por tecnologia, aprendizado contínuo e construção de soluções digitais inovadoras e funcionais que impactam positivamente o dia a dia das pessoas. Com experiência em diversas tecnologias, busco sempre aprender e aplicar as melhores práticas para entregar projetos de alta qualidade.
 </p>
 
 ---
